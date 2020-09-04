@@ -1,2 +1,1 @@
-2.times do
-  puts "hi"
+2.times do  puts "hi"
